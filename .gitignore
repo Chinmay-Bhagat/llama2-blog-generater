@@ -1,0 +1,19 @@
+# Node.js modules
+node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# IDE and OS-specific files
+.vscode/
+.idea/
+.DS_Store
+
+
+/data
+/model
+/llama_env
